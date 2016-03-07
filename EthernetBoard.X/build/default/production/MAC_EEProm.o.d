@@ -1,0 +1,19 @@
+build/default/production/MAC_EEProm.o:  \
+MAC_EEProm.c  \
+MAC_EEProm.h  \
+ MCHP_API.h  \
+ConfigApp.h  \
+HardwareProfile.h  \
+GenericTypeDefs.h  \
+MiWiPRO.h  \
+ SymbolTime.h  \
+Compiler.h  \
+Transceivers.h  \
+MRF89XA.h  \
+SystemProfile.h  \
+ ConfigMRF89XA.h  \
+Security.h  \
+MCHP_MAC.h  \
+ConfigMiWiPRO.h  \
+TimeDelay.h  \
+MSPI.h 

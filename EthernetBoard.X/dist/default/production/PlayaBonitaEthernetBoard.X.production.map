@@ -1,0 +1,2048 @@
+Archive member included because of file (symbol)
+
+c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(general-exception.o)
+                              c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/crt0.o (_general_exception_context)
+c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+                              c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(general-exception.o) (_general_exception_handler)
+c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+                              c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/crt0.o (_bootstrap_exception_handler)
+c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+                              c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/crt0.o (_on_reset)
+c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+                              c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/crt0.o (_on_bootstrap)
+c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-nmi-handler.o)
+                              c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/crt0.o (_nmi_handler)
+c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(open_core_timer_lib.o)
+                              build/default/production/ethernet_board.o (OpenCoreTimer)
+c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(update_core_timer_lib.o)
+                              build/default/production/ethernet_board.o (UpdateCoreTimer)
+c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_disable_interrupts_lib.o)
+                              build/default/production/ethernet_board.o (INTDisableInterrupts)
+c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_restore_interrupts_lib.o)
+                              build/default/production/ethernet_board.o (INTRestoreInterrupts)
+c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_mv_int_lib.o)
+                              build/default/production/HardwareProfile.o (INTEnableSystemMultiVectoredInt)
+c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi1_lib_legacy.o)
+                              build/default/production/MSPI.o (getcSPI1)
+c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi2_lib_legacy.o)
+                              build/default/production/MSPI.o (getcSPI2)
+c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+                              build/default/production/ethernet_board.o (UARTEnable)
+c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(idle_i2c1_lib_legacy.o)
+                              build/default/production/ethernet_board.o (IdleI2C1)
+c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_read_i2c1_lib_legacy.o)
+                              build/default/production/ethernet_board.o (MasterReadI2C1)
+c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_write_i2c1_lib_legacy.o)
+                              build/default/production/ethernet_board.o (MasterWriteI2C1)
+c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_interrupts_lib.o)
+                              c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_mv_int_lib.o) (INTEnableInterrupts)
+
+Allocating common symbols
+Common symbol       size              file
+
+backgroundTaskTick  0x4               build/default/production/MiWiPRO.o
+PUSH_BUTTON_pressed
+                    0x4               build/default/production/HardwareProfile.o
+myShortAddress      0x2               build/default/production/MiWiPRO.o
+nvmNeighborRoutingTable
+                    0x2               build/default/production/NVM.o
+BuffNumber          0x1               build/default/production/ethernet_board.o
+SwTimer2            0x1               build/default/production/ethernet_board.o
+SwTimer3            0x1               build/default/production/ethernet_board.o
+SwTimer0            0x1               build/default/production/ethernet_board.o
+MiWiPROStateMachine
+                    0x1               build/default/production/MiWiPRO.o
+j                   0x1               build/default/production/ethernet_board.o
+Tolerance           0x1               build/default/production/ethernet_board.o
+MyDevicesTempBuff1  0x40              build/default/production/ethernet_board.o
+ConnectedDevicesBuff0
+                    0x10              build/default/production/ethernet_board.o
+myDevicesRequiredStatus
+                    0x10              build/default/production/ethernet_board.o
+_U16Var             0x2               build/default/production/ethernet_board.o
+RcvNodeNumber       0x1               build/default/production/ethernet_board.o
+ConnectionTable     0xa0              build/default/production/MiWiPRO.o
+RSSILock            0x1               build/default/production/MRF89XA.o
+RoutingTable        0x2               build/default/production/MiWiPRO.o
+openSocketInfo      0x14              build/default/production/MiWiPRO.o
+nvmConnMode         0x2               build/default/production/NVM.o
+myDevicesOutputStatusBuff1
+                    0x10              build/default/production/ethernet_board.o
+nvmRole             0x2               build/default/production/NVM.o
+MACRxPacket         0x10              build/default/production/MiWiPRO.o
+RF_Mode             0x1               build/default/production/MRF89XA.o
+AckInfo             0x3c              build/default/production/MRF89XA.o
+RouterFailures      0x10              build/default/production/MiWiPRO.o
+nextEEPosition      0x2               build/default/production/NVM.o
+MACSeq              0x1               build/default/production/MRF89XA.o
+MACInitParams       0x8               build/default/production/MRF89XA.o
+nvmMyParent         0x2               build/default/production/NVM.o
+UartRxBuff          0x400             build/default/production/ethernet_board.o
+nvmDelayTick        0x4               build/default/production/MiWiPRO.o
+OffsetMyDevicesTemp
+                    0x40              build/default/production/ethernet_board.o
+ShortEepromBuff     0x10              build/default/production/ethernet_board.o
+MiWiPROCapacityInfo
+                    0x1               build/default/production/MiWiPRO.o
+ConnectedDevices    0x10              build/default/production/ethernet_board.o
+nvmMyPANID          0x2               build/default/production/NVM.o
+tempLongAddress     0x4               build/default/production/MiWiPRO.o
+SwTimer4            0x1               build/default/production/ethernet_board.o
+myPANID             0x2               build/default/production/MiWiPRO.o
+ConnectedDevicesBuff1
+                    0x10              build/default/production/ethernet_board.o
+UserTimer2          0x1               build/default/production/SymbolTime.o
+EnergyScanResults   0x20              build/default/production/MiWiPRO.o
+ConfirmedDvices     0x8               build/default/production/ethernet_board.o
+myDevicesOutputStatus
+                    0x10              build/default/production/ethernet_board.o
+MTP                 0x8               build/default/production/MiWiPRO.o
+i                   0x1               build/default/production/ethernet_board.o
+nvmCurrentChannel   0x2               build/default/production/NVM.o
+nvmMyShortAddress   0x2               build/default/production/NVM.o
+tempPANID           0x2               build/default/production/MiWiPRO.o
+MiWiPROStatus       0x1               build/default/production/MiWiPRO.o
+MyDevicesTempBuff0  0x40              build/default/production/ethernet_board.o
+tempNodeStatus      0x1               build/default/production/MiWiPRO.o
+RxCmdNum            0x1               build/default/production/ethernet_board.o
+ReceivedBankIndex   0x1               build/default/production/MRF89XA.o
+U32EEIndex          0x4               build/default/production/ethernet_board.o
+U32EEADR            0x4               build/default/production/ethernet_board.o
+EMinutes            0x4               build/default/production/ethernet_board.o
+EnabledDevices      0x8               build/default/production/ethernet_board.o
+DateTimeChars       0x5               build/default/production/ethernet_board.o
+UartRxBuffIndex     0x2               build/default/production/ethernet_board.o
+myDevicesOutputStatusBuff0
+                    0x10              build/default/production/ethernet_board.o
+FrequencyAgilityInfo
+                    0xc               build/default/production/MiWiPRO.o
+RxPacket            0x72              build/default/production/MRF89XA.o
+timerExtension1     0x1               build/default/production/SymbolTime.o
+nvmRoutingTable     0x2               build/default/production/NVM.o
+TxData              0x1               build/default/production/MiWiPRO.o
+RSSIVal             0x1               build/default/production/MRF89XA.o
+timerExtension2     0x1               build/default/production/SymbolTime.o
+MACTxBuffer         0x37              build/default/production/MRF89XA.o
+MiWiPROSeqNum       0x1               build/default/production/MiWiPRO.o
+role                0x1               build/default/production/MiWiPRO.o
+tempShortAddress    0x2               build/default/production/MiWiPRO.o
+DevStatusTemp       0x1               build/default/production/ethernet_board.o
+TxBuffer            0x2b              build/default/production/MiWiPRO.o
+nvmOutFrameCounter  0x2               build/default/production/NVM.o
+AcknowledgementAddr
+                    0x2               build/default/production/MiWiPRO.o
+MiWiPRONVMStatus    0x1               build/default/production/MiWiPRO.o
+RandomSendInfo      0x3c              build/default/production/MiWiPRO.o
+SwTimer1            0x1               build/default/production/ethernet_board.o
+NMinutes            0x4               build/default/production/ethernet_board.o
+U16Index            0x2               build/default/production/ethernet_board.o
+ConfirmedReserv     0x80              build/default/production/ethernet_board.o
+myParent            0x1               build/default/production/MiWiPRO.o
+SMinutes            0x4               build/default/production/ethernet_board.o
+UserTimer1          0x1               build/default/production/SymbolTime.o
+Time                0x7               build/default/production/ethernet_board.o
+EepromBuff          0x400             build/default/production/ethernet_board.o
+TickScaler          0x1               build/default/production/ethernet_board.o
+ActiveScanResults   0xc               build/default/production/MiWiPRO.o
+nvmFamilyTree       0x2               build/default/production/NVM.o
+PanCoordStateMachine
+                    0x1               build/default/production/ethernet_board.o
+EepromTimer         0x2               build/default/production/ethernet_board.o
+rxMessage           0x10              build/default/production/MiWiPRO.o
+TxMACSeq            0x1               build/default/production/MRF89XA.o
+nvmConnectionTable  0x2               build/default/production/NVM.o
+Uart1RXState        0x1               build/default/production/ethernet_board.o
+Tick                0x1               build/default/production/ethernet_board.o
+FamilyTree          0x10              build/default/production/MiWiPRO.o
+EDCR                0x10              build/default/production/ethernet_board.o
+PUSH_BUTTON_press_time
+                    0x4               build/default/production/HardwareProfile.o
+ActiveScanResultIndex
+                    0x1               build/default/production/MiWiPRO.o
+OffsetAppliedMyDevicesTemp
+                    0x40              build/default/production/ethernet_board.o
+EepromSearchIndex   0x4               build/default/production/ethernet_board.o
+PacketRecords       0x80              build/default/production/MiWiPRO.o
+NeighborRoutingTable
+                    0x20              build/default/production/MiWiPRO.o
+
+Microchip PIC32 Memory-Usage Report
+
+kseg0 Program-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.text                   0x9d000008        0x12aa4       76452  App's exec code 
+.rodata                 0x9d012aac          0x1f4         500  Read-only const 
+.text                   0x9d012ca0          0x4ac        1196  App's exec code 
+.text.general_exception 0x9d01314c           0xd0         208   
+.rodata                 0x9d01321c           0x88         136  Read-only const 
+.text.UARTEnable        0x9d0132a4           0x80         128   
+.dinit                  0x9d013324           0x7c         124   
+.text.IdleI2C1          0x9d0133a0           0x74         116   
+.text.MasterWriteI2C1   0x9d013414           0x60          96   
+.text.UARTSetDataRate   0x9d013474           0x5c          92   
+.text.UARTGetDataRate   0x9d0134d0           0x40          64   
+.text.MasterReadI2C1    0x9d013510           0x40          64   
+.text.UARTConfigure     0x9d013550           0x3c          60   
+.text.UARTSetAddress    0x9d01358c           0x3c          60   
+.text.UARTWatchForAddre 0x9d0135c8           0x38          56   
+.text.INTEnableSystemMu 0x9d013600           0x34          52   
+.text.UARTSetFifoMode   0x9d013634           0x28          40   
+.text.UARTSetLineContro 0x9d01365c           0x28          40   
+.text.getcSPI1          0x9d013684           0x20          32   
+.text.getcSPI2          0x9d0136a4           0x20          32   
+.rodata                 0x9d0136c4           0x1c          28  Read-only const 
+.text.INTRestoreInterru 0x9d0136e0           0x1c          28   
+.text                   0x9d0136fc           0x28          40  App's exec code 
+.rodata                 0x9d013724           0x10          16  Read-only const 
+.text.UpdateCoreTimer   0x9d013734           0x10          16   
+.text._general_exceptio 0x9d013744            0xc          12   
+.text._bootstrap_except 0x9d013750            0xc          12   
+.text.OpenCoreTimer     0x9d01375c            0xc          12   
+.text._on_reset         0x9d013768            0x8           8   
+.text._on_bootstrap     0x9d013770            0x8           8   
+.text.INTDisableInterru 0x9d013778            0x8           8   
+.rodata                 0x9d013780            0x8           8  Read-only const 
+.text.INTEnableInterrup 0x9d013788            0x8           8   
+      Total kseg0_program_mem used  :     0x13788       79752  62.8% of 0x1f000
+
+kseg0 Boot-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+         Total kseg0_boot_mem used  :           0           0  
+
+Exception-Memory Usage 
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.app_excpt              0x9d01f180           0x10          16  General-Exception 
+.vector_0               0x9d01f200            0x8           8  Interrupt Vector 0 
+.vector_7               0x9d01f2e0            0x8           8  Interrupt Vector 7 
+.vector_19              0x9d01f460            0x8           8  Interrupt Vector 19 
+.vector_32              0x9d01f600            0x8           8  Interrupt Vector 32 
+          Total exception_mem used  :        0x30          48  1.2% of 0x1000
+
+kseg1 Boot-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.reset                  0xbfc00000          0x1f4         500  Reset handler 
+.bev_excpt              0xbfc00380           0x10          16  BEV-Exception 
+         Total kseg1_boot_mem used  :       0x204         516  44.2% of 0x490
+        --------------------------------------------------------------------------
+         Total Program Memory used  :     0x139bc       80316  60.7% of 0x20490
+        --------------------------------------------------------------------------
+
+
+kseg1 Data-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.sdata                  0xa0000000            0xc          12  Small init data 
+.sbss                   0xa000000c           0xdb         219  Small uninit data 
+.bss                    0xa00000e8          0xd2c        3372  Uninitialized data 
+.data                   0xa0000e14            0xc          12  Initialized data 
+         Total kseg1_data_mem used  :       0xe1f        3615  11.0% of 0x8000
+        --------------------------------------------------------------------------
+            Total Data Memory used  :       0xe1f        3615  11.0% of 0x8000
+        --------------------------------------------------------------------------
+
+
+Dynamic Data-Memory Reservation
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+heap                    0xa0000e28              0           0  Reserved for heap 
+stack                   0xa0000e40         0x71b8       29112  Reserved for stack 
+
+        --------------------------------------------------------------------------
+
+Discarded input sections
+
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/crt0.o
+ .pdr           0x00000000       0xa0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/crt0.o
+ .reginfo       0x00000000       0x18 build/default/production/ethernet_board.o
+ .pdr           0x00000000      0x4c0 build/default/production/ethernet_board.o
+ .reginfo       0x00000000       0x18 build/default/production/HardwareProfile.o
+ .pdr           0x00000000       0x80 build/default/production/HardwareProfile.o
+ .reginfo       0x00000000       0x18 build/default/production/MAC_EEProm.o
+ .pdr           0x00000000       0x40 build/default/production/MAC_EEProm.o
+ .reginfo       0x00000000       0x18 build/default/production/TimeDelay.o
+ .pdr           0x00000000       0x40 build/default/production/TimeDelay.o
+ .reginfo       0x00000000       0x18 build/default/production/MiWiPRO.o
+ .pdr           0x00000000      0x400 build/default/production/MiWiPRO.o
+ .reginfo       0x00000000       0x18 build/default/production/Console.o
+ .pdr           0x00000000       0xc0 build/default/production/Console.o
+ .reginfo       0x00000000       0x18 build/default/production/EEPROM.o
+ .pdr           0x00000000        0x0 build/default/production/EEPROM.o
+ .reginfo       0x00000000       0x18 build/default/production/MSPI.o
+ .pdr           0x00000000       0x80 build/default/production/MSPI.o
+ .reginfo       0x00000000       0x18 build/default/production/NVM.o
+ .pdr           0x00000000       0x80 build/default/production/NVM.o
+ .reginfo       0x00000000       0x18 build/default/production/SymbolTime.o
+ .pdr           0x00000000       0x40 build/default/production/SymbolTime.o
+ .reginfo       0x00000000       0x18 build/default/production/MRF89XA.o
+ .pdr           0x00000000      0x240 build/default/production/MRF89XA.o
+ .reginfo       0x00000000       0x18 build/default/production/crc.o
+ .pdr           0x00000000        0x0 build/default/production/crc.o
+ .reginfo       0x00000000       0x18 build/default/production/security.o
+ .pdr           0x00000000        0x0 build/default/production/security.o
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(general-exception.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(general-exception.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-nmi-handler.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-nmi-handler.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(open_core_timer_lib.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(open_core_timer_lib.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(update_core_timer_lib.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(update_core_timer_lib.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_disable_interrupts_lib.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_disable_interrupts_lib.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_restore_interrupts_lib.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_restore_interrupts_lib.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_mv_int_lib.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_mv_int_lib.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi1_lib_legacy.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi1_lib_legacy.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi2_lib_legacy.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi2_lib_legacy.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+ .pdr           0x00000000      0x100 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(idle_i2c1_lib_legacy.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(idle_i2c1_lib_legacy.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_read_i2c1_lib_legacy.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_read_i2c1_lib_legacy.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_write_i2c1_lib_legacy.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_write_i2c1_lib_legacy.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_interrupts_lib.o)
+ .pdr           0x00000000       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_interrupts_lib.o)
+ .reginfo       0x00000000       0x18 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/./proc/32MX150F128D\processor.o
+ .pdr           0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/./proc/32MX150F128D\processor.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+kseg0_program_mem 0x9d000000         0x0001f000         xr
+exception_mem    0x9d01f000         0x00001000
+debug_exec_mem   0x9fc00490         0x00000760
+kseg0_boot_mem   0x9fc00490         0x00000000
+kseg1_boot_mem   0xbfc00000         0x00000490
+config3          0xbfc00bf0         0x00000004
+config2          0xbfc00bf4         0x00000004
+config1          0xbfc00bf8         0x00000004
+config0          0xbfc00bfc         0x00000004
+kseg1_data_mem   0xa0000000         0x00008000         w !x
+sfrs             0xbf800000         0x00100000
+configsfrs       0xbfc00bf0         0x00000010
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/crt0.o
+LOAD build/default/production/ethernet_board.o
+LOAD build/default/production/HardwareProfile.o
+LOAD build/default/production/MAC_EEProm.o
+LOAD build/default/production/TimeDelay.o
+LOAD build/default/production/MiWiPRO.o
+LOAD build/default/production/Console.o
+LOAD build/default/production/EEPROM.o
+LOAD build/default/production/MSPI.o
+LOAD build/default/production/NVM.o
+LOAD build/default/production/SymbolTime.o
+LOAD build/default/production/MRF89XA.o
+LOAD build/default/production/crc.o
+LOAD build/default/production/security.o
+                0x00000001                __MPLAB_BUILD = 0x1
+LOAD c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1\libgcc.a
+START GROUP
+LOAD c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libdebug.a
+LOAD c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a
+LOAD c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libm.a
+LOAD c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libe.a
+LOAD c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libdsp.a
+LOAD c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a
+LOAD c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a
+END GROUP
+LOAD c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1\libgcc.a
+                0x00000400                PROVIDE (_min_stack_size, 0x400)
+                0x00000000                PROVIDE (_min_heap_size, 0x0)
+LOAD c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/./proc/32MX150F128D\processor.o
+                0x00000001                PROVIDE (_vector_spacing, 0x1)
+                0x9d01f000                _ebase_address = 0x9d01f000
+                0xbfc00000                _RESET_ADDR = 0xbfc00000
+                0xbfc00380                _BEV_EXCPT_ADDR = 0xbfc00380
+                0xbfc00480                _DBG_EXCPT_ADDR = 0xbfc00480
+                0x9fc00490                _DBG_CODE_ADDR = 0x9fc00490
+                0x00000760                _DBG_CODE_SIZE = 0x760
+                0x9d01f180                _GEN_EXCPT_ADDR = (_ebase_address + 0x180)
+
+.config_BFC00BF0
+ *(.config_BFC00BF0)
+
+.config_BFC00BF4
+                0xbfc00bf4        0x4
+ *(.config_BFC00BF4)
+ .config_BFC00BF4
+                0xbfc00bf4        0x4 build/default/production/ethernet_board.o
+
+.config_BFC00BF8
+                0xbfc00bf8        0x4
+ *(.config_BFC00BF8)
+ .config_BFC00BF8
+                0xbfc00bf8        0x4 build/default/production/ethernet_board.o
+
+.config_BFC00BFC
+ *(.config_BFC00BFC)
+                0xbfc02000                PROVIDE (_DBG_CODE_ADDR, 0xbfc02000)
+                0x00000ff0                PROVIDE (_DBG_CODE_SIZE, 0xff0)
+
+.reset          0xbfc00000      0x1f4
+ *(.reset)
+ .reset         0xbfc00000       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/crt0.o
+                0xbfc00000                _reset
+ *(.reset.startup)
+ .reset.startup
+                0xbfc00010      0x1e4 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/crt0.o
+
+.bev_excpt      0xbfc00380       0x10
+ *(.bev_handler)
+ .bev_handler   0xbfc00380       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/crt0.o
+
+.dbg_excpt      0xbfc00480        0x0
+                0xbfc00480                . = (. + DEFINED (_DEBUGGER)?0x8:0x0)
+
+.dbg_code       0x9fc00490        0x0
+                0x9fc00490                . = (. + DEFINED (_DEBUGGER)?_DBG_CODE_SIZE:0x0)
+
+.app_excpt      0x9d01f180       0x10
+ *(.gen_handler)
+ .gen_handler   0x9d01f180       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/crt0.o
+
+.vector_0       0x9d01f200        0x8
+ *(.vector_0)
+ .vector_0      0x9d01f200        0x8 build/default/production/ethernet_board.o
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_0) <= (_vector_spacing << 0x5))), function at exception vector 0 too large)
+
+.vector_1       0x9d01f220        0x0
+ *(.vector_1)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_1) <= (_vector_spacing << 0x5))), function at exception vector 1 too large)
+
+.vector_2       0x9d01f240        0x0
+ *(.vector_2)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_2) <= (_vector_spacing << 0x5))), function at exception vector 2 too large)
+
+.vector_3       0x9d01f260        0x0
+ *(.vector_3)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_3) <= (_vector_spacing << 0x5))), function at exception vector 3 too large)
+
+.vector_4       0x9d01f280        0x0
+ *(.vector_4)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_4) <= (_vector_spacing << 0x5))), function at exception vector 4 too large)
+
+.vector_5       0x9d01f2a0        0x0
+ *(.vector_5)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_5) <= (_vector_spacing << 0x5))), function at exception vector 5 too large)
+
+.vector_6       0x9d01f2c0        0x0
+ *(.vector_6)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_6) <= (_vector_spacing << 0x5))), function at exception vector 6 too large)
+
+.vector_7       0x9d01f2e0        0x8
+ *(.vector_7)
+ .vector_7      0x9d01f2e0        0x8 build/default/production/MRF89XA.o
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_7) <= (_vector_spacing << 0x5))), function at exception vector 7 too large)
+
+.vector_8       0x9d01f300        0x0
+ *(.vector_8)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_8) <= (_vector_spacing << 0x5))), function at exception vector 8 too large)
+
+.vector_9       0x9d01f320        0x0
+ *(.vector_9)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_9) <= (_vector_spacing << 0x5))), function at exception vector 9 too large)
+
+.vector_10      0x9d01f340        0x0
+ *(.vector_10)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_10) <= (_vector_spacing << 0x5))), function at exception vector 10 too large)
+
+.vector_11      0x9d01f360        0x0
+ *(.vector_11)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_11) <= (_vector_spacing << 0x5))), function at exception vector 11 too large)
+
+.vector_12      0x9d01f380        0x0
+ *(.vector_12)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_12) <= (_vector_spacing << 0x5))), function at exception vector 12 too large)
+
+.vector_13      0x9d01f3a0        0x0
+ *(.vector_13)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_13) <= (_vector_spacing << 0x5))), function at exception vector 13 too large)
+
+.vector_14      0x9d01f3c0        0x0
+ *(.vector_14)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_14) <= (_vector_spacing << 0x5))), function at exception vector 14 too large)
+
+.vector_15      0x9d01f3e0        0x0
+ *(.vector_15)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_15) <= (_vector_spacing << 0x5))), function at exception vector 15 too large)
+
+.vector_16      0x9d01f400        0x0
+ *(.vector_16)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_16) <= (_vector_spacing << 0x5))), function at exception vector 16 too large)
+
+.vector_17      0x9d01f420        0x0
+ *(.vector_17)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_17) <= (_vector_spacing << 0x5))), function at exception vector 17 too large)
+
+.vector_18      0x9d01f440        0x0
+ *(.vector_18)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_18) <= (_vector_spacing << 0x5))), function at exception vector 18 too large)
+
+.vector_19      0x9d01f460        0x8
+ *(.vector_19)
+ .vector_19     0x9d01f460        0x8 build/default/production/MRF89XA.o
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_19) <= (_vector_spacing << 0x5))), function at exception vector 19 too large)
+
+.vector_20      0x9d01f480        0x0
+ *(.vector_20)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_20) <= (_vector_spacing << 0x5))), function at exception vector 20 too large)
+
+.vector_21      0x9d01f4a0        0x0
+ *(.vector_21)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_21) <= (_vector_spacing << 0x5))), function at exception vector 21 too large)
+
+.vector_22      0x9d01f4c0        0x0
+ *(.vector_22)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_22) <= (_vector_spacing << 0x5))), function at exception vector 22 too large)
+
+.vector_23      0x9d01f4e0        0x0
+ *(.vector_23)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_23) <= (_vector_spacing << 0x5))), function at exception vector 23 too large)
+
+.vector_24      0x9d01f500        0x0
+ *(.vector_24)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_24) <= (_vector_spacing << 0x5))), function at exception vector 24 too large)
+
+.vector_25      0x9d01f520        0x0
+ *(.vector_25)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_25) <= (_vector_spacing << 0x5))), function at exception vector 25 too large)
+
+.vector_26      0x9d01f540        0x0
+ *(.vector_26)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_26) <= (_vector_spacing << 0x5))), function at exception vector 26 too large)
+
+.vector_27      0x9d01f560        0x0
+ *(.vector_27)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_27) <= (_vector_spacing << 0x5))), function at exception vector 27 too large)
+
+.vector_28      0x9d01f580        0x0
+ *(.vector_28)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_28) <= (_vector_spacing << 0x5))), function at exception vector 28 too large)
+
+.vector_29      0x9d01f5a0        0x0
+ *(.vector_29)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_29) <= (_vector_spacing << 0x5))), function at exception vector 29 too large)
+
+.vector_30      0x9d01f5c0        0x0
+ *(.vector_30)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_30) <= (_vector_spacing << 0x5))), function at exception vector 30 too large)
+
+.vector_31      0x9d01f5e0        0x0
+ *(.vector_31)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_31) <= (_vector_spacing << 0x5))), function at exception vector 31 too large)
+
+.vector_32      0x9d01f600        0x8
+ *(.vector_32)
+ .vector_32     0x9d01f600        0x8 build/default/production/ethernet_board.o
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_32) <= (_vector_spacing << 0x5))), function at exception vector 32 too large)
+
+.vector_33      0x9d01f620        0x0
+ *(.vector_33)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_33) <= (_vector_spacing << 0x5))), function at exception vector 33 too large)
+
+.vector_34      0x9d01f640        0x0
+ *(.vector_34)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_34) <= (_vector_spacing << 0x5))), function at exception vector 34 too large)
+
+.vector_35      0x9d01f660        0x0
+ *(.vector_35)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_35) <= (_vector_spacing << 0x5))), function at exception vector 35 too large)
+
+.vector_36      0x9d01f680        0x0
+ *(.vector_36)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_36) <= (_vector_spacing << 0x5))), function at exception vector 36 too large)
+
+.vector_37      0x9d01f6a0        0x0
+ *(.vector_37)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_37) <= (_vector_spacing << 0x5))), function at exception vector 37 too large)
+
+.vector_38      0x9d01f6c0        0x0
+ *(.vector_38)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_38) <= (_vector_spacing << 0x5))), function at exception vector 38 too large)
+
+.vector_39      0x9d01f6e0        0x0
+ *(.vector_39)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_39) <= (_vector_spacing << 0x5))), function at exception vector 39 too large)
+
+.vector_40      0x9d01f700        0x0
+ *(.vector_40)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_40) <= (_vector_spacing << 0x5))), function at exception vector 40 too large)
+
+.vector_41      0x9d01f720        0x0
+ *(.vector_41)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_41) <= (_vector_spacing << 0x5))), function at exception vector 41 too large)
+
+.vector_42      0x9d01f740        0x0
+ *(.vector_42)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_42) <= (_vector_spacing << 0x5))), function at exception vector 42 too large)
+
+.vector_43      0x9d01f760        0x0
+ *(.vector_43)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_43) <= (_vector_spacing << 0x5))), function at exception vector 43 too large)
+
+.vector_44      0x9d01f780        0x0
+ *(.vector_44)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_44) <= (_vector_spacing << 0x5))), function at exception vector 44 too large)
+
+.vector_45      0x9d01f7a0        0x0
+ *(.vector_45)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_45) <= (_vector_spacing << 0x5))), function at exception vector 45 too large)
+
+.vector_46      0x9d01f7c0        0x0
+ *(.vector_46)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_46) <= (_vector_spacing << 0x5))), function at exception vector 46 too large)
+
+.vector_47      0x9d01f7e0        0x0
+ *(.vector_47)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_47) <= (_vector_spacing << 0x5))), function at exception vector 47 too large)
+
+.vector_48      0x9d01f800        0x0
+ *(.vector_48)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_48) <= (_vector_spacing << 0x5))), function at exception vector 48 too large)
+
+.vector_49      0x9d01f820        0x0
+ *(.vector_49)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_49) <= (_vector_spacing << 0x5))), function at exception vector 49 too large)
+
+.vector_50      0x9d01f840        0x0
+ *(.vector_50)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_50) <= (_vector_spacing << 0x5))), function at exception vector 50 too large)
+
+.vector_51      0x9d01f860        0x0
+ *(.vector_51)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_51) <= (_vector_spacing << 0x5))), function at exception vector 51 too large)
+
+.vector_52      0x9d01f880        0x0
+ *(.vector_52)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_52) <= (_vector_spacing << 0x5))), function at exception vector 52 too large)
+
+.vector_53      0x9d01f8a0        0x0
+ *(.vector_53)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_53) <= (_vector_spacing << 0x5))), function at exception vector 53 too large)
+
+.vector_54      0x9d01f8c0        0x0
+ *(.vector_54)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_54) <= (_vector_spacing << 0x5))), function at exception vector 54 too large)
+
+.vector_55      0x9d01f8e0        0x0
+ *(.vector_55)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_55) <= (_vector_spacing << 0x5))), function at exception vector 55 too large)
+
+.vector_56      0x9d01f900        0x0
+ *(.vector_56)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_56) <= (_vector_spacing << 0x5))), function at exception vector 56 too large)
+
+.vector_57      0x9d01f920        0x0
+ *(.vector_57)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_57) <= (_vector_spacing << 0x5))), function at exception vector 57 too large)
+
+.vector_58      0x9d01f940        0x0
+ *(.vector_58)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_58) <= (_vector_spacing << 0x5))), function at exception vector 58 too large)
+
+.vector_59      0x9d01f960        0x0
+ *(.vector_59)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_59) <= (_vector_spacing << 0x5))), function at exception vector 59 too large)
+
+.vector_60      0x9d01f980        0x0
+ *(.vector_60)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_60) <= (_vector_spacing << 0x5))), function at exception vector 60 too large)
+
+.vector_61      0x9d01f9a0        0x0
+ *(.vector_61)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_61) <= (_vector_spacing << 0x5))), function at exception vector 61 too large)
+
+.vector_62      0x9d01f9c0        0x0
+ *(.vector_62)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_62) <= (_vector_spacing << 0x5))), function at exception vector 62 too large)
+
+.vector_63      0x9d01f9e0        0x0
+ *(.vector_63)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_63) <= (_vector_spacing << 0x5))), function at exception vector 63 too large)
+
+.startup
+ *(.startup)
+
+.text
+ *(.stub .gnu.linkonce.t.*)
+ *(.text.*personality*)
+ *(.mips16.fn.*)
+ *(.mips16.call.*)
+ *(.gnu.warning)
+
+.rodata         0x9d000000        0x0
+ *(.rodata.* .gnu.linkonce.r.*)
+ *(.rodata1)
+                0x9d000000                . = ALIGN (0x4)
+
+.sdata2         0x9fc00490        0x0
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x9fc00490                . = ALIGN (0x4)
+
+.sbss2          0x9fc00490        0x0
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+                0x9fc00490                . = ALIGN (0x4)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.dbg_data       0xa0000000        0x0
+                0xa0000000                . = (. + DEFINED (_DEBUGGER)?0x200:0x0)
+
+.persist        0xa0000000        0x0
+                0xa0000000                _persist_begin = .
+ *(.persist .persist.*)
+                0xa0000000                . = ALIGN (0x4)
+                0xa0000000                _persist_end = .
+
+.eh_frame
+ *(.eh_frame)
+                0xa0000000                . = .
+                0xa0007ff0                _gp = (ALIGN (0x10) + 0x7ff0)
+
+.got
+ *(.got.plt)
+ *(.got)
+
+.sdata          0xa0000000        0xc
+                0xa0000000                _sdata_begin = .
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata         0xa0000000        0x4 build/default/production/ethernet_board.o
+                0xa0000000                AdditionalNodeID
+                0xa0000001                BaseTimeToTx
+                0xa0000002                myChannel
+ .sdata         0xa0000004        0x8 build/default/production/MiWiPRO.o
+                0xa0000004                myLongAddress
+                0xa0000008                AcknowledgementSeq
+                0xa0000009                defaultHops
+                0xa000000c                _sdata_end = .
+
+.lit8
+ *(.lit8)
+
+.lit4
+ *(.lit4)
+                0xa000000c                . = ALIGN (0x4)
+                0xa000000c                _data_end = .
+                0xa000000c                _bss_begin = .
+
+.sbss           0xa000000c       0xdb
+                0xa000000c                _sbss_begin = .
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0xa000000c        0x8 build/default/production/MiWiPRO.o
+                0xa000000c                currentChannel
+                0xa000000d                ConnMode
+                0xa0000010                MiWiPROAckRequired
+ .sbss          0xa0000014        0x8 build/default/production/MRF89XA.o
+                0xa0000014                IRQ1_Received
+                0xa0000018                hasAck
+ *(.scommon)
+ .scommon       0xa000001c       0x58 build/default/production/ethernet_board.o
+                0xa000001c                BuffNumber
+                0xa000001d                SwTimer2
+                0xa000001e                SwTimer3
+                0xa000001f                SwTimer0
+                0xa0000020                j
+                0xa0000021                Tolerance
+                0xa0000022                _U16Var
+                0xa0000024                RcvNodeNumber
+                0xa0000025                SwTimer4
+                0xa0000028                ConfirmedDvices
+                0xa0000030                i
+                0xa0000031                RxCmdNum
+                0xa0000034                U32EEIndex
+                0xa0000038                U32EEADR
+                0xa000003c                EMinutes
+                0xa0000040                EnabledDevices
+                0xa0000048                DateTimeChars
+                0xa000004e                UartRxBuffIndex
+                0xa0000050                DevStatusTemp
+                0xa0000051                SwTimer1
+                0xa0000054                NMinutes
+                0xa0000058                U16Index
+                0xa000005c                SMinutes
+                0xa0000060                Time
+                0xa0000067                TickScaler
+                0xa0000068                PanCoordStateMachine
+                0xa000006a                EepromTimer
+                0xa000006c                Uart1RXState
+                0xa000006d                Tick
+                0xa0000070                EepromSearchIndex
+ .scommon       0xa0000074        0x8 build/default/production/HardwareProfile.o
+                0xa0000074                PUSH_BUTTON_pressed
+                0xa0000078                PUSH_BUTTON_press_time
+ .scommon       0xa000007c       0x3f build/default/production/MiWiPRO.o
+                0xa000007c                backgroundTaskTick
+                0xa0000080                myShortAddress
+                0xa0000084                MiWiPROStateMachine
+                0xa0000088                RoutingTable
+                0xa000008c                nvmDelayTick
+                0xa0000090                MiWiPROCapacityInfo
+                0xa0000094                tempLongAddress
+                0xa0000098                myPANID
+                0xa000009c                MTP
+                0xa00000a4                tempPANID
+                0xa00000a8                MiWiPROStatus
+                0xa00000ac                tempNodeStatus
+                0xa00000ad                TxData
+                0xa00000ae                MiWiPROSeqNum
+                0xa00000af                role
+                0xa00000b0                tempShortAddress
+                0xa00000b4                AcknowledgementAddr
+                0xa00000b8                MiWiPRONVMStatus
+                0xa00000b9                myParent
+                0xa00000ba                ActiveScanResultIndex
+ *fill*         0xa00000bb        0x1 00
+ .scommon       0xa00000bc       0x18 build/default/production/NVM.o
+                0xa00000bc                nvmNeighborRoutingTable
+                0xa00000be                nvmConnMode
+                0xa00000c0                nvmRole
+                0xa00000c2                nextEEPosition
+                0xa00000c4                nvmMyParent
+                0xa00000c6                nvmMyPANID
+                0xa00000c8                nvmCurrentChannel
+                0xa00000ca                nvmMyShortAddress
+                0xa00000cc                nvmRoutingTable
+                0xa00000ce                nvmOutFrameCounter
+                0xa00000d0                nvmFamilyTree
+                0xa00000d2                nvmConnectionTable
+ .scommon       0xa00000d4        0x4 build/default/production/SymbolTime.o
+                0xa00000d4                UserTimer2
+                0xa00000d5                timerExtension1
+                0xa00000d6                timerExtension2
+                0xa00000d7                UserTimer1
+ .scommon       0xa00000d8        0xf build/default/production/MRF89XA.o
+                0xa00000d8                RSSILock
+                0xa00000d9                RF_Mode
+                0xa00000da                MACSeq
+                0xa00000dc                MACInitParams
+                0xa00000e4                ReceivedBankIndex
+                0xa00000e5                RSSIVal
+                0xa00000e6                TxMACSeq
+                0xa00000e7                _sbss_end = .
+
+.bss            0xa00000e8      0xd2c
+ *(.dynbss)
+ *(COMMON)
+ COMMON         0xa00000e8      0xa10 build/default/production/ethernet_board.o
+                0xa00000e8                MyDevicesTempBuff1
+                0xa0000128                ConnectedDevicesBuff0
+                0xa0000138                myDevicesRequiredStatus
+                0xa0000148                myDevicesOutputStatusBuff1
+                0xa0000158                UartRxBuff
+                0xa0000558                OffsetMyDevicesTemp
+                0xa0000598                ShortEepromBuff
+                0xa00005a8                ConnectedDevices
+                0xa00005b8                ConnectedDevicesBuff1
+                0xa00005c8                myDevicesOutputStatus
+                0xa00005d8                MyDevicesTempBuff0
+                0xa0000618                myDevicesOutputStatusBuff0
+                0xa0000628                ConfirmedReserv
+                0xa00006a8                EepromBuff
+                0xa0000aa8                EDCR
+                0xa0000ab8                OffsetAppliedMyDevicesTemp
+ COMMON         0xa0000af8      0x234 build/default/production/MiWiPRO.o
+                0xa0000af8                ConnectionTable
+                0xa0000b98                openSocketInfo
+                0xa0000bac                MACRxPacket
+                0xa0000bbc                RouterFailures
+                0xa0000bcc                EnergyScanResults
+                0xa0000bec                FrequencyAgilityInfo
+                0xa0000bf8                TxBuffer
+                0xa0000c24                RandomSendInfo
+                0xa0000c60                ActiveScanResults
+                0xa0000c6c                rxMessage
+                0xa0000c7c                FamilyTree
+                0xa0000c8c                PacketRecords
+                0xa0000d0c                NeighborRoutingTable
+ COMMON         0xa0000d2c       0xe7 build/default/production/MRF89XA.o
+                0xa0000d2c                AckInfo
+                0xa0000d68                RxPacket
+                0xa0000ddc                MACTxBuffer
+                0xa0000e14                . = ALIGN (0x4)
+ *fill*         0xa0000e13        0x1 00
+                0xa0000e14                . = ALIGN (0x4)
+                0xa0000e14                _end = .
+                0xa0000e14                _bss_end = .
+                0x00008000                _bmxdudba_address = 0x8000
+                0x00008000                _bmxdupba_address = 0x8000
+
+/DISCARD/
+ *(.pdr)
+ *(.reginfo)
+ *(.rel.dyn)
+ *(.note.GNU-stack)
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+ *(.discard)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0xa2
+ *(.comment)
+ .comment       0x00000000       0x51 build/default/production/ethernet_board.o
+                                 0x52 (size before relaxing)
+ .comment       0x00000000       0x52 build/default/production/HardwareProfile.o
+ .comment       0x00000000       0x52 build/default/production/MAC_EEProm.o
+ .comment       0x00000000       0x52 build/default/production/TimeDelay.o
+ .comment       0x00000000       0x52 build/default/production/MiWiPRO.o
+ .comment       0x00000000       0x52 build/default/production/Console.o
+ .comment       0x00000000       0x52 build/default/production/EEPROM.o
+ .comment       0x00000000       0x52 build/default/production/MSPI.o
+ .comment       0x00000000       0x52 build/default/production/NVM.o
+ .comment       0x00000000       0x52 build/default/production/SymbolTime.o
+ .comment       0x00000000       0x52 build/default/production/MRF89XA.o
+ .comment       0x00000000       0x52 build/default/production/crc.o
+ .comment       0x00000000       0x52 build/default/production/security.o
+ .comment       0x00000000       0x52 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+ .comment       0x00000000       0x52 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .comment       0x00000000       0x52 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .comment       0x00000000       0x52 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .comment       0x00000051       0x51 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(open_core_timer_lib.o)
+                                 0x52 (size before relaxing)
+ .comment       0x00000000       0x52 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(update_core_timer_lib.o)
+ .comment       0x00000000       0x52 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_disable_interrupts_lib.o)
+ .comment       0x00000000       0x52 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_restore_interrupts_lib.o)
+ .comment       0x00000000       0x52 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_mv_int_lib.o)
+ .comment       0x00000000       0x52 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi1_lib_legacy.o)
+ .comment       0x00000000       0x52 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi2_lib_legacy.o)
+ .comment       0x00000000       0x52 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+ .comment       0x00000000       0x52 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(idle_i2c1_lib_legacy.o)
+ .comment       0x00000000       0x52 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_read_i2c1_lib_legacy.o)
+ .comment       0x00000000       0x52 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_write_i2c1_lib_legacy.o)
+ .comment       0x00000000       0x52 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_interrupts_lib.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x378
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 build/default/production/ethernet_board.o
+ .debug_aranges
+                0x00000020       0x20 build/default/production/HardwareProfile.o
+ .debug_aranges
+                0x00000040       0x20 build/default/production/MAC_EEProm.o
+ .debug_aranges
+                0x00000060       0x20 build/default/production/TimeDelay.o
+ .debug_aranges
+                0x00000080       0x20 build/default/production/MiWiPRO.o
+ .debug_aranges
+                0x000000a0       0x20 build/default/production/Console.o
+ .debug_aranges
+                0x000000c0       0x20 build/default/production/MSPI.o
+ .debug_aranges
+                0x000000e0       0x20 build/default/production/NVM.o
+ .debug_aranges
+                0x00000100       0x20 build/default/production/SymbolTime.o
+ .debug_aranges
+                0x00000120       0x20 build/default/production/MRF89XA.o
+ .debug_aranges
+                0x00000140       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+ .debug_aranges
+                0x00000160       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .debug_aranges
+                0x00000180       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .debug_aranges
+                0x000001a0       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .debug_aranges
+                0x000001c0       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(open_core_timer_lib.o)
+ .debug_aranges
+                0x000001e0       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(update_core_timer_lib.o)
+ .debug_aranges
+                0x00000200       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_disable_interrupts_lib.o)
+ .debug_aranges
+                0x00000220       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_restore_interrupts_lib.o)
+ .debug_aranges
+                0x00000240       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_mv_int_lib.o)
+ .debug_aranges
+                0x00000260       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi1_lib_legacy.o)
+ .debug_aranges
+                0x00000280       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi2_lib_legacy.o)
+ .debug_aranges
+                0x000002a0       0x58 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+ .debug_aranges
+                0x000002f8       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(idle_i2c1_lib_legacy.o)
+ .debug_aranges
+                0x00000318       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_read_i2c1_lib_legacy.o)
+ .debug_aranges
+                0x00000338       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_write_i2c1_lib_legacy.o)
+ .debug_aranges
+                0x00000358       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_interrupts_lib.o)
+
+.debug_pubnames
+                0x00000000     0x14d8
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000      0x6ae build/default/production/ethernet_board.o
+ .debug_pubnames
+                0x000006ae       0x84 build/default/production/HardwareProfile.o
+ .debug_pubnames
+                0x00000732       0x36 build/default/production/MAC_EEProm.o
+ .debug_pubnames
+                0x00000768       0x2c build/default/production/TimeDelay.o
+ .debug_pubnames
+                0x00000794      0x5b9 build/default/production/MiWiPRO.o
+ .debug_pubnames
+                0x00000d4d       0x86 build/default/production/Console.o
+ .debug_pubnames
+                0x00000dd3       0x40 build/default/production/MSPI.o
+ .debug_pubnames
+                0x00000e13      0x12e build/default/production/NVM.o
+ .debug_pubnames
+                0x00000f41       0x7d build/default/production/SymbolTime.o
+ .debug_pubnames
+                0x00000fbe      0x219 build/default/production/MRF89XA.o
+ .debug_pubnames
+                0x000011d7       0x31 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+ .debug_pubnames
+                0x00001208       0x33 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .debug_pubnames
+                0x0000123b       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .debug_pubnames
+                0x0000125b       0x24 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .debug_pubnames
+                0x0000127f       0x24 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(open_core_timer_lib.o)
+ .debug_pubnames
+                0x000012a3       0x26 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(update_core_timer_lib.o)
+ .debug_pubnames
+                0x000012c9       0x2b c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_disable_interrupts_lib.o)
+ .debug_pubnames
+                0x000012f4       0x2b c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_restore_interrupts_lib.o)
+ .debug_pubnames
+                0x0000131f       0x36 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_mv_int_lib.o)
+ .debug_pubnames
+                0x00001355       0x1f c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi1_lib_legacy.o)
+ .debug_pubnames
+                0x00001374       0x1f c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi2_lib_legacy.o)
+ .debug_pubnames
+                0x00001393       0xb1 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+ .debug_pubnames
+                0x00001444       0x1f c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(idle_i2c1_lib_legacy.o)
+ .debug_pubnames
+                0x00001463       0x25 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_read_i2c1_lib_legacy.o)
+ .debug_pubnames
+                0x00001488       0x26 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_write_i2c1_lib_legacy.o)
+ .debug_pubnames
+                0x000014ae       0x2a c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_interrupts_lib.o)
+
+.debug_info     0x00000000    0x1607b
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x3ffc build/default/production/ethernet_board.o
+ .debug_info    0x00003ffc     0x1fba build/default/production/HardwareProfile.o
+ .debug_info    0x00005fb6     0x11a9 build/default/production/MAC_EEProm.o
+ .debug_info    0x0000715f      0xfd8 build/default/production/TimeDelay.o
+ .debug_info    0x00008137     0x40c3 build/default/production/MiWiPRO.o
+ .debug_info    0x0000c1fa     0x1681 build/default/production/Console.o
+ .debug_info    0x0000d87b      0xefb build/default/production/EEPROM.o
+ .debug_info    0x0000e776     0x12c9 build/default/production/MSPI.o
+ .debug_info    0x0000fa3f     0x11d6 build/default/production/NVM.o
+ .debug_info    0x00010c15     0x11c7 build/default/production/SymbolTime.o
+ .debug_info    0x00011ddc     0x25d5 build/default/production/MRF89XA.o
+ .debug_info    0x000143b1        0x0 build/default/production/crc.o
+ .debug_info    0x000143b1      0xefd build/default/production/security.o
+ .debug_info    0x000152ae      0x102 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+ .debug_info    0x000153b0      0x106 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .debug_info    0x000154b6       0xe0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .debug_info    0x00015596       0xe8 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .debug_info    0x0001567e       0xbf c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(open_core_timer_lib.o)
+ .debug_info    0x0001573d       0xc3 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(update_core_timer_lib.o)
+ .debug_info    0x00015800       0xcb c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_disable_interrupts_lib.o)
+ .debug_info    0x000158cb       0xcb c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_restore_interrupts_lib.o)
+ .debug_info    0x00015996       0xd1 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_mv_int_lib.o)
+ .debug_info    0x00015a67       0xbd c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi1_lib_legacy.o)
+ .debug_info    0x00015b24       0xbd c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi2_lib_legacy.o)
+ .debug_info    0x00015be1      0x18a c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+ .debug_info    0x00015d6b       0xb9 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(idle_i2c1_lib_legacy.o)
+ .debug_info    0x00015e24       0xc6 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_read_i2c1_lib_legacy.o)
+ .debug_info    0x00015eea       0xc8 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_write_i2c1_lib_legacy.o)
+ .debug_info    0x00015fb2       0xc9 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_interrupts_lib.o)
+
+.debug_abbrev   0x00000000     0x1ce6
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x3e3 build/default/production/ethernet_board.o
+ .debug_abbrev  0x000003e3      0x231 build/default/production/HardwareProfile.o
+ .debug_abbrev  0x00000614      0x1cd build/default/production/MAC_EEProm.o
+ .debug_abbrev  0x000007e1      0x19b build/default/production/TimeDelay.o
+ .debug_abbrev  0x0000097c      0x364 build/default/production/MiWiPRO.o
+ .debug_abbrev  0x00000ce0      0x1e3 build/default/production/Console.o
+ .debug_abbrev  0x00000ec3      0x166 build/default/production/EEPROM.o
+ .debug_abbrev  0x00001029      0x1d8 build/default/production/MSPI.o
+ .debug_abbrev  0x00001201      0x20e build/default/production/NVM.o
+ .debug_abbrev  0x0000140f      0x1e8 build/default/production/SymbolTime.o
+ .debug_abbrev  0x000015f7      0x325 build/default/production/MRF89XA.o
+ .debug_abbrev  0x0000191c        0x1 build/default/production/crc.o
+ .debug_abbrev  0x0000191d      0x166 build/default/production/security.o
+ .debug_abbrev  0x00001a83       0x25 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+ .debug_abbrev  0x00001aa8       0x25 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .debug_abbrev  0x00001acd       0x25 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .debug_abbrev  0x00001af2       0x25 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .debug_abbrev  0x00001b17       0x25 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(open_core_timer_lib.o)
+ .debug_abbrev  0x00001b3c       0x25 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(update_core_timer_lib.o)
+ .debug_abbrev  0x00001b61       0x25 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_disable_interrupts_lib.o)
+ .debug_abbrev  0x00001b86       0x25 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_restore_interrupts_lib.o)
+ .debug_abbrev  0x00001bab       0x25 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_mv_int_lib.o)
+ .debug_abbrev  0x00001bd0       0x25 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi1_lib_legacy.o)
+ .debug_abbrev  0x00001bf5       0x25 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi2_lib_legacy.o)
+ .debug_abbrev  0x00001c1a       0x38 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+ .debug_abbrev  0x00001c52       0x25 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(idle_i2c1_lib_legacy.o)
+ .debug_abbrev  0x00001c77       0x25 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_read_i2c1_lib_legacy.o)
+ .debug_abbrev  0x00001c9c       0x25 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_write_i2c1_lib_legacy.o)
+ .debug_abbrev  0x00001cc1       0x25 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_interrupts_lib.o)
+
+.debug_line     0x00000000     0x3179
+ *(.debug_line)
+ .debug_line    0x00000000      0x8f7 build/default/production/ethernet_board.o
+ .debug_line    0x000008f7      0x1f7 build/default/production/HardwareProfile.o
+ .debug_line    0x00000aee      0x16b build/default/production/MAC_EEProm.o
+ .debug_line    0x00000c59      0x173 build/default/production/TimeDelay.o
+ .debug_line    0x00000dcc      0xfc0 build/default/production/MiWiPRO.o
+ .debug_line    0x00001d8c      0x18b build/default/production/Console.o
+ .debug_line    0x00001f17      0x131 build/default/production/EEPROM.o
+ .debug_line    0x00002048      0x173 build/default/production/MSPI.o
+ .debug_line    0x000021bb      0x18a build/default/production/NVM.o
+ .debug_line    0x00002345      0x17b build/default/production/SymbolTime.o
+ .debug_line    0x000024c0      0x3d6 build/default/production/MRF89XA.o
+ .debug_line    0x00002896        0x0 build/default/production/crc.o
+ .debug_line    0x00002896      0x131 build/default/production/security.o
+ .debug_line    0x000029c7       0xa4 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+ .debug_line    0x00002a6b       0xa6 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .debug_line    0x00002b11       0x93 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .debug_line    0x00002ba4       0x97 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .debug_line    0x00002c3b       0x6e c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(open_core_timer_lib.o)
+ .debug_line    0x00002ca9       0x70 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(update_core_timer_lib.o)
+ .debug_line    0x00002d19       0x73 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_disable_interrupts_lib.o)
+ .debug_line    0x00002d8c       0x73 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_restore_interrupts_lib.o)
+ .debug_line    0x00002dff       0x6e c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_mv_int_lib.o)
+ .debug_line    0x00002e6d       0x71 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi1_lib_legacy.o)
+ .debug_line    0x00002ede       0x71 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi2_lib_legacy.o)
+ .debug_line    0x00002f4f       0x62 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+ .debug_line    0x00002fb1       0x6d c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(idle_i2c1_lib_legacy.o)
+ .debug_line    0x0000301e       0x74 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_read_i2c1_lib_legacy.o)
+ .debug_line    0x00003092       0x75 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_write_i2c1_lib_legacy.o)
+ .debug_line    0x00003107       0x72 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_interrupts_lib.o)
+
+.debug_frame    0x00000000      0xf0c
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x40c build/default/production/ethernet_board.o
+ .debug_frame   0x0000040c       0x78 build/default/production/HardwareProfile.o
+ .debug_frame   0x00000484       0x48 build/default/production/MAC_EEProm.o
+ .debug_frame   0x000004cc       0x44 build/default/production/TimeDelay.o
+ .debug_frame   0x00000510      0x378 build/default/production/MiWiPRO.o
+ .debug_frame   0x00000888       0xac build/default/production/Console.o
+ .debug_frame   0x00000934       0x80 build/default/production/MSPI.o
+ .debug_frame   0x000009b4       0x74 build/default/production/NVM.o
+ .debug_frame   0x00000a28       0x40 build/default/production/SymbolTime.o
+ .debug_frame   0x00000a68      0x224 build/default/production/MRF89XA.o
+ .debug_frame   0x00000c8c       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+ .debug_frame   0x00000cac       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .debug_frame   0x00000ccc       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .debug_frame   0x00000cec       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .debug_frame   0x00000d0c       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(open_core_timer_lib.o)
+ .debug_frame   0x00000d2c       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(update_core_timer_lib.o)
+ .debug_frame   0x00000d4c       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_disable_interrupts_lib.o)
+ .debug_frame   0x00000d6c       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_restore_interrupts_lib.o)
+ .debug_frame   0x00000d8c       0x28 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_mv_int_lib.o)
+ .debug_frame   0x00000db4       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi1_lib_legacy.o)
+ .debug_frame   0x00000dd4       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi2_lib_legacy.o)
+ .debug_frame   0x00000df4       0x90 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+ .debug_frame   0x00000e84       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(idle_i2c1_lib_legacy.o)
+ .debug_frame   0x00000ea4       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_read_i2c1_lib_legacy.o)
+ .debug_frame   0x00000ec4       0x28 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_write_i2c1_lib_legacy.o)
+ .debug_frame   0x00000eec       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_interrupts_lib.o)
+
+.debug_str      0x00000000     0x150d
+ *(.debug_str)
+ .debug_str     0x00000000      0x4d8 build/default/production/ethernet_board.o
+ .debug_str     0x000004d8      0x166 build/default/production/HardwareProfile.o
+ .debug_str     0x0000063e       0xf9 build/default/production/MAC_EEProm.o
+ .debug_str     0x00000737       0xe2 build/default/production/TimeDelay.o
+ .debug_str     0x00000819      0x4d4 build/default/production/MiWiPRO.o
+ .debug_str     0x00000ced      0x104 build/default/production/Console.o
+ .debug_str     0x00000df1       0xe2 build/default/production/EEPROM.o
+ .debug_str     0x00000ed3      0x122 build/default/production/MSPI.o
+ .debug_str     0x00000ff5      0x194 build/default/production/NVM.o
+ .debug_str     0x00001189       0xeb build/default/production/SymbolTime.o
+ .debug_str     0x00001274      0x1b7 build/default/production/MRF89XA.o
+ .debug_str     0x0000142b        0x0 build/default/production/crc.o
+ .debug_str     0x0000142b       0xe2 build/default/production/security.o
+ .debug_str     0x0000150d        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+ .debug_str     0x0000150d        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .debug_str     0x0000150d        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .debug_str     0x0000150d        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .debug_str     0x0000150d        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(open_core_timer_lib.o)
+ .debug_str     0x0000150d        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(update_core_timer_lib.o)
+ .debug_str     0x0000150d        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_disable_interrupts_lib.o)
+ .debug_str     0x0000150d        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_restore_interrupts_lib.o)
+ .debug_str     0x0000150d        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_mv_int_lib.o)
+ .debug_str     0x0000150d        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi1_lib_legacy.o)
+ .debug_str     0x0000150d        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi2_lib_legacy.o)
+ .debug_str     0x0000150d        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+ .debug_str     0x0000150d        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(idle_i2c1_lib_legacy.o)
+ .debug_str     0x0000150d        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_read_i2c1_lib_legacy.o)
+ .debug_str     0x0000150d        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_write_i2c1_lib_legacy.o)
+ .debug_str     0x0000150d        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_interrupts_lib.o)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+                0x00000000      0xfa9
+ *(.debug_pubtypes)
+ .debug_pubtypes
+                0x00000000      0x1cb build/default/production/ethernet_board.o
+ .debug_pubtypes
+                0x000001cb      0x1ae build/default/production/HardwareProfile.o
+ .debug_pubtypes
+                0x00000379       0xd7 build/default/production/MAC_EEProm.o
+ .debug_pubtypes
+                0x00000450       0xe7 build/default/production/TimeDelay.o
+ .debug_pubtypes
+                0x00000537      0x34d build/default/production/MiWiPRO.o
+ .debug_pubtypes
+                0x00000884       0xe9 build/default/production/Console.o
+ .debug_pubtypes
+                0x0000096d       0xbd build/default/production/EEPROM.o
+ .debug_pubtypes
+                0x00000a2a       0xf0 build/default/production/MSPI.o
+ .debug_pubtypes
+                0x00000b1a       0xe2 build/default/production/NVM.o
+ .debug_pubtypes
+                0x00000bfc      0x120 build/default/production/SymbolTime.o
+ .debug_pubtypes
+                0x00000d1c      0x1d0 build/default/production/MRF89XA.o
+ .debug_pubtypes
+                0x00000eec       0xbd build/default/production/security.o
+
+.debug_ranges   0x00000000      0x1f8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x30 build/default/production/ethernet_board.o
+ .debug_ranges  0x00000030       0x60 build/default/production/MiWiPRO.o
+ .debug_ranges  0x00000090       0x30 build/default/production/MRF89XA.o
+ .debug_ranges  0x000000c0       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+ .debug_ranges  0x000000d0       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .debug_ranges  0x000000e0       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .debug_ranges  0x000000f0       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .debug_ranges  0x00000100       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(open_core_timer_lib.o)
+ .debug_ranges  0x00000110       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(update_core_timer_lib.o)
+ .debug_ranges  0x00000120       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_disable_interrupts_lib.o)
+ .debug_ranges  0x00000130       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_restore_interrupts_lib.o)
+ .debug_ranges  0x00000140       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_mv_int_lib.o)
+ .debug_ranges  0x00000150       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi1_lib_legacy.o)
+ .debug_ranges  0x00000160       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi2_lib_legacy.o)
+ .debug_ranges  0x00000170       0x48 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+ .debug_ranges  0x000001b8       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(idle_i2c1_lib_legacy.o)
+ .debug_ranges  0x000001c8       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_read_i2c1_lib_legacy.o)
+ .debug_ranges  0x000001d8       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_write_i2c1_lib_legacy.o)
+ .debug_ranges  0x000001e8       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_interrupts_lib.o)
+
+.gnu.attributes
+                0x00000000       0x10
+ *(.gnu.attributes)
+ .gnu.attributes
+                0x00000000       0x10 build/default/production/ethernet_board.o
+ .gnu.attributes
+                0x00000010       0x10 build/default/production/HardwareProfile.o
+ .gnu.attributes
+                0x00000020       0x10 build/default/production/MAC_EEProm.o
+ .gnu.attributes
+                0x00000030       0x10 build/default/production/TimeDelay.o
+ .gnu.attributes
+                0x00000040       0x10 build/default/production/MiWiPRO.o
+ .gnu.attributes
+                0x00000050       0x10 build/default/production/Console.o
+ .gnu.attributes
+                0x00000060       0x10 build/default/production/EEPROM.o
+ .gnu.attributes
+                0x00000070       0x10 build/default/production/MSPI.o
+ .gnu.attributes
+                0x00000080       0x10 build/default/production/NVM.o
+ .gnu.attributes
+                0x00000090       0x10 build/default/production/SymbolTime.o
+ .gnu.attributes
+                0x000000a0       0x10 build/default/production/MRF89XA.o
+ .gnu.attributes
+                0x000000b0       0x10 build/default/production/crc.o
+ .gnu.attributes
+                0x000000c0       0x10 build/default/production/security.o
+ .gnu.attributes
+                0x000000d0       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+ .gnu.attributes
+                0x000000e0       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .gnu.attributes
+                0x000000f0       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .gnu.attributes
+                0x00000100       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .gnu.attributes
+                0x00000110       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(open_core_timer_lib.o)
+ .gnu.attributes
+                0x00000120       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(update_core_timer_lib.o)
+ .gnu.attributes
+                0x00000130       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_disable_interrupts_lib.o)
+ .gnu.attributes
+                0x00000140       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_restore_interrupts_lib.o)
+ .gnu.attributes
+                0x00000150       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_mv_int_lib.o)
+ .gnu.attributes
+                0x00000160       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi1_lib_legacy.o)
+ .gnu.attributes
+                0x00000170       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi2_lib_legacy.o)
+ .gnu.attributes
+                0x00000180       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+ .gnu.attributes
+                0x00000190       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(idle_i2c1_lib_legacy.o)
+ .gnu.attributes
+                0x000001a0       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_read_i2c1_lib_legacy.o)
+ .gnu.attributes
+                0x000001b0       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_write_i2c1_lib_legacy.o)
+ .gnu.attributes
+                0x000001c0       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_interrupts_lib.o)
+OUTPUT(dist/default/production/PlayaBonitaEthernetBoard.X.production.elf elf32-tradlittlemips)
+LOAD stack
+LOAD data_init
+
+.stack          0xa0000e40      0x400
+ .stack         0xa0000e40      0x400 stack
+
+.data           0xa0000e14        0xc
+ .data          0xa0000e14        0xc build/default/production/ethernet_board.o
+                0xa0000e14                Message
+
+.bss%z1         0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/./proc/32MX150F128D\processor.o
+
+.data%z2        0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/./proc/32MX150F128D\processor.o
+
+.mdebug.abi32%z3
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_interrupts_lib.o)
+
+.bss%z4         0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_interrupts_lib.o)
+
+.data%z5        0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_interrupts_lib.o)
+
+.mdebug.abi32%z6
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_write_i2c1_lib_legacy.o)
+
+.bss%z7         0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_write_i2c1_lib_legacy.o)
+
+.data%z8        0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_write_i2c1_lib_legacy.o)
+
+.mdebug.abi32%z9
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_read_i2c1_lib_legacy.o)
+
+.bss%z10        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_read_i2c1_lib_legacy.o)
+
+.data%z11       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_read_i2c1_lib_legacy.o)
+
+.mdebug.abi32%z12
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(idle_i2c1_lib_legacy.o)
+
+.bss%z13        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(idle_i2c1_lib_legacy.o)
+
+.data%z14       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(idle_i2c1_lib_legacy.o)
+
+.mdebug.abi32%z15
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+
+.bss%z16        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+
+.data%z17       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+
+.mdebug.abi32%z18
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi2_lib_legacy.o)
+
+.bss%z19        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi2_lib_legacy.o)
+
+.data%z20       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi2_lib_legacy.o)
+
+.mdebug.abi32%z21
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi1_lib_legacy.o)
+
+.bss%z22        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi1_lib_legacy.o)
+
+.data%z23       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi1_lib_legacy.o)
+
+.mdebug.abi32%z24
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_mv_int_lib.o)
+
+.bss%z25        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_mv_int_lib.o)
+
+.data%z26       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_mv_int_lib.o)
+
+.mdebug.abi32%z27
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_restore_interrupts_lib.o)
+
+.bss%z28        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_restore_interrupts_lib.o)
+
+.data%z29       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_restore_interrupts_lib.o)
+
+.mdebug.abi32%z30
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_disable_interrupts_lib.o)
+
+.bss%z31        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_disable_interrupts_lib.o)
+
+.data%z32       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_disable_interrupts_lib.o)
+
+.mdebug.abi32%z33
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(update_core_timer_lib.o)
+
+.bss%z34        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(update_core_timer_lib.o)
+
+.data%z35       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(update_core_timer_lib.o)
+
+.mdebug.abi32%z36
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(open_core_timer_lib.o)
+
+.bss%z37        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(open_core_timer_lib.o)
+
+.data%z38       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(open_core_timer_lib.o)
+
+.bss%z39        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-nmi-handler.o)
+
+.data%z40       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-nmi-handler.o)
+
+.mdebug.abi32%z41
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+
+.bss%z42        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+
+.data%z43       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+
+.mdebug.abi32%z44
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+
+.bss%z45        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+
+.data%z46       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+
+.mdebug.abi32%z47
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+
+.bss%z48        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+
+.data%z49       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+
+.mdebug.abi32%z50
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+
+.bss%z51        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+
+.data%z52       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+
+.bss%z53        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(general-exception.o)
+
+.data%z54       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(general-exception.o)
+
+.mdebug.abi32%z55
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 build/default/production/security.o
+
+.bss%z56        0x00000000        0x0
+ .bss           0x00000000        0x0 build/default/production/security.o
+
+.data%z57       0x00000000        0x0
+ .data          0x00000000        0x0 build/default/production/security.o
+
+.mdebug.abi32%z58
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 build/default/production/crc.o
+
+.bss%z59        0x00000000        0x0
+ .bss           0x00000000        0x0 build/default/production/crc.o
+
+.data%z60       0x00000000        0x0
+ .data          0x00000000        0x0 build/default/production/crc.o
+
+.mdebug.abi32%z61
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 build/default/production/MRF89XA.o
+
+.bss%z62        0x00000000        0x0
+ .bss           0x00000000        0x0 build/default/production/MRF89XA.o
+
+.data%z63       0x00000000        0x0
+ .data          0x00000000        0x0 build/default/production/MRF89XA.o
+
+.mdebug.abi32%z64
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 build/default/production/SymbolTime.o
+
+.bss%z65        0x00000000        0x0
+ .bss           0x00000000        0x0 build/default/production/SymbolTime.o
+
+.data%z66       0x00000000        0x0
+ .data          0x00000000        0x0 build/default/production/SymbolTime.o
+
+.mdebug.abi32%z67
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 build/default/production/NVM.o
+
+.bss%z68        0x00000000        0x0
+ .bss           0x00000000        0x0 build/default/production/NVM.o
+
+.data%z69       0x00000000        0x0
+ .data          0x00000000        0x0 build/default/production/NVM.o
+
+.mdebug.abi32%z70
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 build/default/production/MSPI.o
+
+.bss%z71        0x00000000        0x0
+ .bss           0x00000000        0x0 build/default/production/MSPI.o
+
+.data%z72       0x00000000        0x0
+ .data          0x00000000        0x0 build/default/production/MSPI.o
+
+.mdebug.abi32%z73
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 build/default/production/EEPROM.o
+
+.bss%z74        0x00000000        0x0
+ .bss           0x00000000        0x0 build/default/production/EEPROM.o
+
+.data%z75       0x00000000        0x0
+ .data          0x00000000        0x0 build/default/production/EEPROM.o
+
+.mdebug.abi32%z76
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 build/default/production/Console.o
+
+.bss%z77        0x00000000        0x0
+ .bss           0x00000000        0x0 build/default/production/Console.o
+
+.data%z78       0x00000000        0x0
+ .data          0x00000000        0x0 build/default/production/Console.o
+
+.mdebug.abi32%z79
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 build/default/production/MiWiPRO.o
+
+.bss%z80        0x00000000        0x0
+ .bss           0x00000000        0x0 build/default/production/MiWiPRO.o
+
+.data%z81       0x00000000        0x0
+ .data          0x00000000        0x0 build/default/production/MiWiPRO.o
+
+.mdebug.abi32%z82
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 build/default/production/TimeDelay.o
+
+.bss%z83        0x00000000        0x0
+ .bss           0x00000000        0x0 build/default/production/TimeDelay.o
+
+.data%z84       0x00000000        0x0
+ .data          0x00000000        0x0 build/default/production/TimeDelay.o
+
+.mdebug.abi32%z85
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 build/default/production/MAC_EEProm.o
+
+.bss%z86        0x00000000        0x0
+ .bss           0x00000000        0x0 build/default/production/MAC_EEProm.o
+
+.data%z87       0x00000000        0x0
+ .data          0x00000000        0x0 build/default/production/MAC_EEProm.o
+
+.mdebug.abi32%z88
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 build/default/production/HardwareProfile.o
+
+.bss%z89        0x00000000        0x0
+ .bss           0x00000000        0x0 build/default/production/HardwareProfile.o
+
+.data%z90       0x00000000        0x0
+ .data          0x00000000        0x0 build/default/production/HardwareProfile.o
+
+.mdebug.abi32%z91
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 build/default/production/ethernet_board.o
+
+.bss%z92        0x00000000        0x0
+ .bss           0x00000000        0x0 build/default/production/ethernet_board.o
+
+.bss%z93        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/crt0.o
+
+.data%z94       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/crt0.o
+
+.text           0x9d000008    0x12aa4
+ .text          0x9d000008     0xab2c build/default/production/MiWiPRO.o
+                0x9d000008                MacroNop
+                0x9d000028                BroadcastJitter
+                0x9d0000dc                MiWiPROTasks
+                0x9d0052b8                FindDepth
+                0x9d0053b4                FindRoutingPath
+                0x9d005c24                RouteMessage
+                0x9d0061dc                SendMACPacket
+                0x9d00629c                findNextNetworkEntry
+                0x9d006324                DumpConnection
+                0x9d006ce8                OpenSocket
+                0x9d007390                SearchForShortAddress
+                0x9d007474                SendBeacon
+                0x9d007694                SearchForLongAddress
+                0x9d0077b8                AddNodeToNetworkTable
+                0x9d007954                isSameAddress
+                0x9d0079dc                MiApp_ProtocolInit
+                0x9d007f38                MiApp_SetChannel
+                0x9d007fb4                MiApp_ConnectionMode
+                0x9d008038                MiApp_SearchConnection
+                0x9d008248                MiApp_EstablishConnection
+                0x9d008840                MiApp_MessageAvailable
+                0x9d00887c                MiApp_DiscardMessage
+                0x9d0088b8                MiApp_BroadcastPacket
+                0x9d0088f4                MultiCast
+                0x9d008abc                MiApp_UnicastConnection
+                0x9d008e1c                MiApp_UnicastAddress
+                0x9d0095a8                MiApp_StartConnection
+                0x9d00989c                MiApp_NoiseDetection
+                0x9d009b10                MiApp_ResyncConnection
+                0x9d009da8                StartChannelHopping
+                0x9d009f34                MiApp_InitChannelHopping
+                0x9d00a4a8                MiApp_RemoveConnection
+ .text          0x9d00ab34     0x59ac build/default/production/ethernet_board.o
+                0x9d00ab34                Serial_print
+                0x9d00ac90                Uart1Put
+                0x9d00acdc                Uart1PrintChar
+                0x9d00ad6c                Uart1PrintDec
+                0x9d00ae24                Uart1PutROMString
+                0x9d00ae94                Eeprom25xx_Init
+                0x9d00aed8                Eeprom25xx_u8ReadStatus
+                0x9d00af40                Eeprom25xx_Read
+                0x9d00b038                Eeprom25xx_Write
+                0x9d00b1e0                Eeprom25xx_SectorErase
+                0x9d00b2cc                SendCmdToRadio
+                0x9d00b4b8                Write_rtcc
+                0x9d00b55c                Read_rtcc
+                0x9d00b640                Set_Time
+                0x9d00b7fc                Read_Time
+                0x9d00b8ec                DateTimeTo32BitDecimal
+                0x9d00b9fc                UnsortedDateTimeTo32BitDecimal
+                0x9d00bacc                BCDTOHEX
+                0x9d00bb34                HexCodedDateTime
+                0x9d00bbc0                DateTimeDecimalCoded
+                0x9d00bc28                UartGetData
+                0x9d00bcc0                EthernetGetByte
+                0x9d00bd6c                ClockTask
+                0x9d00bfc4                ApplyOffsetValues
+                0x9d00c108                RadioTask
+                0x9d00c408                SearchStoredID
+                0x9d00c52c                EthernetAck
+                0x9d00c5b4                EthernetTask
+                0x9d00e8e4                AddMinutesToDateTime
+                0x9d00ea4c                EepromTask
+                0x9d00eee0                Reservations_And_ManuallyControlledDevices
+                0x9d00f368                SearchEepromIndex
+                0x9d00f45c                InitConfig
+                0x9d00fc44                main
+                0x9d00fc78                IntUart1Handler
+                0x9d0101a0                CoreTimerHandler
+ .text          0x9d0104e0     0x1b1c build/default/production/MRF89XA.o
+                0x9d0104e0                getReceiverBW
+                0x9d010544                RegisterSet
+                0x9d010608                RegisterRead
+                0x9d0106c8                WriteFIFO
+                0x9d01076c                TxPacket
+                0x9d010a14                MiMAC_SetAltAddress
+                0x9d010a40                MiMAC_SetChannel
+                0x9d010b3c                MiMAC_SetPower
+                0x9d010bb0                MiMAC_Init
+                0x9d010d3c                SetRFMode
+                0x9d010e40                MiMAC_SendPacket
+                0x9d01106c                MiMAC_ReceivedPacket
+                0x9d0113a0                MiMAC_DiscardPacket
+                0x9d011404                MiMAC_ChannelAssessment
+                0x9d011578                _INT1Interrupt
+                0x9d0116e0                _INT4Interrupt
+ .text          0x9d011ffc      0x580 build/default/production/HardwareProfile.o
+                0x9d011ffc                BoardInit
+                0x9d0123a0                LCDTRXCount
+                0x9d0123d0                LCDDisplay
+                0x9d012484                ButtonPressed
+ .text          0x9d01257c      0x2e0 build/default/production/Console.o
+                0x9d01257c                ConsoleInit
+                0x9d0125fc                ConsolePutROMString
+                0x9d01266c                ConsolePut
+                0x9d0126b8                ConsoleGet
+                0x9d012714                PrintChar
+                0x9d0127a4                PrintDec
+ .text          0x9d01285c      0x250 build/default/production/NVM.o
+                0x9d01285c                NVMRead
+                0x9d012890                NVMWrite
+                0x9d0128c4                NVMalloc
+                0x9d012940                NVMInit
+
+.rodata         0x9d012aac      0x1f4
+ .rodata        0x9d012aac      0x1f4 build/default/production/MiWiPRO.o
+                0x9d012aac                ScanTime
+
+.text           0x9d012ca0      0x4ac
+ .text          0x9d012ca0      0x160 build/default/production/MSPI.o
+                0x9d012ca0                SPIPut
+                0x9d012cfc                SPIGet
+                0x9d012d50                SPIPut2
+                0x9d012dac                SPIGet2
+ .text          0x9d012e00      0x13c build/default/production/MAC_EEProm.o
+                0x9d012e00                EEPROMRead
+                0x9d012ebc                Read_MAC_Address
+ .text          0x9d012f3c      0x108 build/default/production/TimeDelay.o
+                0x9d012f3c                Delay10us
+                0x9d012fac                DelayMs
+ .text          0x9d013044      0x108 build/default/production/SymbolTime.o
+                0x9d013044                InitSymbolTimer
+                0x9d0130c8                MiWi_TickGet
+
+.text.general_exception
+                0x9d01314c       0xd0
+ .text.general_exception
+                0x9d01314c       0xd0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(general-exception.o)
+                0x9d01314c                _general_exception_context
+
+.rodata         0x9d01321c       0x88
+ .rodata        0x9d01321c       0x88 build/default/production/MRF89XA.o
+                0x9d01321c                PVALUE
+                0x9d01323c                SVALUE
+                0x9d01325c                InitConfigRegs
+
+.text.UARTEnable
+                0x9d0132a4       0x80
+ .text.UARTEnable
+                0x9d0132a4       0x80 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+                0x9d0132a4                UARTEnable
+
+.dinit          0x9d013324       0x7c
+ .dinit         0x9d013324       0x7c data_init
+
+.text.IdleI2C1  0x9d0133a0       0x74
+ .text.IdleI2C1
+                0x9d0133a0       0x74 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(idle_i2c1_lib_legacy.o)
+                0x9d0133a0                IdleI2C1
+
+.text.MasterWriteI2C1
+                0x9d013414       0x60
+ .text.MasterWriteI2C1
+                0x9d013414       0x60 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_write_i2c1_lib_legacy.o)
+                0x9d013414                MasterWriteI2C1
+
+.text.UARTSetDataRate
+                0x9d013474       0x5c
+ .text.UARTSetDataRate
+                0x9d013474       0x5c c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+                0x9d013474                UARTSetDataRate
+
+.text.UARTGetDataRate
+                0x9d0134d0       0x40
+ .text.UARTGetDataRate
+                0x9d0134d0       0x40 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+                0x9d0134d0                UARTGetDataRate
+
+.text.MasterReadI2C1
+                0x9d013510       0x40
+ .text.MasterReadI2C1
+                0x9d013510       0x40 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_read_i2c1_lib_legacy.o)
+                0x9d013510                MasterReadI2C1
+
+.text.UARTConfigure
+                0x9d013550       0x3c
+ .text.UARTConfigure
+                0x9d013550       0x3c c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+                0x9d013550                UARTConfigure
+
+.text.UARTSetAddress
+                0x9d01358c       0x3c
+ .text.UARTSetAddress
+                0x9d01358c       0x3c c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+                0x9d01358c                UARTSetAddress
+
+.text.UARTWatchForAddress
+                0x9d0135c8       0x38
+ .text.UARTWatchForAddress
+                0x9d0135c8       0x38 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+                0x9d0135c8                UARTWatchForAddress
+
+.text.INTEnableSystemMultiVectoredInt
+                0x9d013600       0x34
+ .text.INTEnableSystemMultiVectoredInt
+                0x9d013600       0x34 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_mv_int_lib.o)
+                0x9d013600                INTEnableSystemMultiVectoredInt
+
+.text.UARTSetFifoMode
+                0x9d013634       0x28
+ .text.UARTSetFifoMode
+                0x9d013634       0x28 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+                0x9d013634                UARTSetFifoMode
+
+.text.UARTSetLineControl
+                0x9d01365c       0x28
+ .text.UARTSetLineControl
+                0x9d01365c       0x28 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+                0x9d01365c                UARTSetLineControl
+
+.text.getcSPI1  0x9d013684       0x20
+ .text.getcSPI1
+                0x9d013684       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi1_lib_legacy.o)
+                0x9d013684                getcSPI1
+
+.text.getcSPI2  0x9d0136a4       0x20
+ .text.getcSPI2
+                0x9d0136a4       0x20 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi2_lib_legacy.o)
+                0x9d0136a4                getcSPI2
+
+.rodata         0x9d0136c4       0x1c
+ .rodata        0x9d0136c4       0x1c build/default/production/ethernet_board.o
+                0x9d0136c4                StartCmd
+                0x9d0136c5                EndCmd
+                0x9d0136c6                OutputStat
+                0x9d0136c8                CalibrationAddress
+                0x9d0136cc                ToleranceValueAddress
+                0x9d0136d0                U1CharacterArray
+
+.text.INTRestoreInterrupts
+                0x9d0136e0       0x1c
+ .text.INTRestoreInterrupts
+                0x9d0136e0       0x1c c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_restore_interrupts_lib.o)
+                0x9d0136e0                INTRestoreInterrupts
+
+.text           0x9d0136fc       0x28
+ .text          0x9d0136fc       0x18 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-nmi-handler.o)
+                0x9d0136fc                _nmi_handler
+ .text          0x9d013714       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/crt0.o
+                0x9d01371c                __crt0_exit
+
+.rodata         0x9d013724       0x10
+ .rodata        0x9d013724       0x10 build/default/production/Console.o
+                0x9d013724                CharacterArray
+
+.text.UpdateCoreTimer
+                0x9d013734       0x10
+ .text.UpdateCoreTimer
+                0x9d013734       0x10 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(update_core_timer_lib.o)
+                0x9d013734                UpdateCoreTimer
+
+.text._general_exception_handler
+                0x9d013744        0xc
+ .text._general_exception_handler
+                0x9d013744        0xc c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+                0x9d013744                _general_exception_handler
+
+.text._bootstrap_exception_handler
+                0x9d013750        0xc
+ .text._bootstrap_exception_handler
+                0x9d013750        0xc c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+                0x9d013750                _bootstrap_exception_handler
+
+.text.OpenCoreTimer
+                0x9d01375c        0xc
+ .text.OpenCoreTimer
+                0x9d01375c        0xc c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(open_core_timer_lib.o)
+                0x9d01375c                OpenCoreTimer
+
+.text._on_reset
+                0x9d013768        0x8
+ .text._on_reset
+                0x9d013768        0x8 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+                0x9d013768                _on_reset
+
+.text._on_bootstrap
+                0x9d013770        0x8
+ .text._on_bootstrap
+                0x9d013770        0x8 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+                0x9d013770                _on_bootstrap
+
+.text.INTDisableInterrupts
+                0x9d013778        0x8
+ .text.INTDisableInterrupts
+                0x9d013778        0x8 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_disable_interrupts_lib.o)
+                0x9d013778                INTDisableInterrupts
+
+.rodata         0x9d013780        0x8
+ .rodata        0x9d013780        0x8 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+                0x9d013780                uartReg
+
+.text.INTEnableInterrupts
+                0x9d013788        0x8
+ .text.INTEnableInterrupts
+                0x9d013788        0x8 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_interrupts_lib.o)
+                0x9d013788                INTEnableInterrupts
+
+.text%z95       0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/./proc/32MX150F128D\processor.o
+
+.text%z96       0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_interrupts_lib.o)
+
+.text%z97       0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_write_i2c1_lib_legacy.o)
+
+.text%z98       0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(master_read_i2c1_lib_legacy.o)
+
+.text%z99       0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(idle_i2c1_lib_legacy.o)
+
+.text%z100      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(uart_lib.o)
+
+.text%z101      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi2_lib_legacy.o)
+
+.text%z102      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(spi_getc_spi1_lib_legacy.o)
+
+.text%z103      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_enable_mv_int_lib.o)
+
+.text%z104      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_restore_interrupts_lib.o)
+
+.text%z105      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral_32MX150F128D.a(int_disable_interrupts_lib.o)
+
+.text%z106      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(update_core_timer_lib.o)
+
+.text%z107      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libmchp_peripheral.a(open_core_timer_lib.o)
+
+.text%z108      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+
+.text%z109      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+
+.text%z110      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+
+.text%z111      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+
+.text%z112      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib\libc.a(general-exception.o)
+
+.text%z113      0x00000000        0x0
+ .text          0x00000000        0x0 build/default/production/security.o
+
+.text%z114      0x00000000        0x0
+ .text          0x00000000        0x0 build/default/production/crc.o
+
+.text%z115      0x00000000        0x0
+ .text          0x00000000        0x0 build/default/production/EEPROM.o
